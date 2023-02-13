@@ -54,6 +54,7 @@ const elements = [
   },
 ];
 
+registerFont("./public/yffyt.ttf", { family: "Yffyt" });
 registerFont("./public/Virgil.woff2", { family: "Virgil" });
 registerFont("./public/Cascadia.woff2", { family: "Cascadia" });
 
